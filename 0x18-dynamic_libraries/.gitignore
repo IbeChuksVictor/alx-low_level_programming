@@ -3,3 +3,4 @@
 *.o
 github.sh
 c
+*.py
